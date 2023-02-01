@@ -87,7 +87,7 @@ const InfoSection = ({
   const showReportTable = () => {
     setIsVisible(true);
     
-    fetch("https://darvaron14.pythonanywhere.com/reportes/"+usernameEmail, {
+    fetch("https://cors-anywhere.herokuapp.com/https://darvaron14.pythonanywhere.com/reportes/"+usernameEmail, {
       mode: "cors",
       method: "POST",
       cache: "no-cache",
@@ -105,7 +105,7 @@ const InfoSection = ({
   }
 
   useEffect(() => {
-    fetch("https://darvaron14.pythonanywhere.com/baches", {
+    fetch("https://cors-anywhere.herokuapp.com/https://darvaron14.pythonanywhere.com/baches", {
       mode: "cors",
       method: "GET",
       cache: "no-cache",

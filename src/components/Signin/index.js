@@ -67,7 +67,7 @@ const SignIn = () => {
 
 export default SignIn;
 export function PostData(username, password) {
-  let BaseUrl = "https://darvaron14.pythonanywhere.com/usuarios/"+username;
+  let BaseUrl = "https://cors-anywhere.herokuapp.com/https://darvaron14.pythonanywhere.com/usuarios/"+username;
 
   console.log('pass '+password);
   return new Promise((resolve) => {
