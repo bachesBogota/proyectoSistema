@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/bachesBogota/proyectoSistema/static/css/main.d7da34c1.css",
-    "main.js": "/bachesBogota/proyectoSistema/static/js/main.2ec4e375.js",
-    "static/media/video2.mp4": "/bachesBogota/proyectoSistema/static/media/video2.68ec94723001160ed3bf.mp4",
-    "static/media/svg-2.svg": "/bachesBogota/proyectoSistema/static/media/svg-2.0f25146fc4365053800fe3fbc6a61046.svg",
-    "static/media/svg-3.svg": "/bachesBogota/proyectoSistema/static/media/svg-3.2531a5ce6b52a5135bf9f2f2fe035b02.svg",
-    "static/media/svg-5.svg": "/bachesBogota/proyectoSistema/static/media/svg-5.add51bb78ec6ebc7b82bb1b64c1cf191.svg",
-    "static/media/svg-4.svg": "/bachesBogota/proyectoSistema/static/media/svg-4.454217e0403f9c782ebdd10f9409cb4a.svg",
-    "static/media/svg-1.svg": "/bachesBogota/proyectoSistema/static/media/svg-1.1ccf19fb99a9b1ea3517fd854bbbd6c6.svg",
-    "index.html": "/bachesBogota/proyectoSistema/index.html",
-    "main.d7da34c1.css.map": "/bachesBogota/proyectoSistema/static/css/main.d7da34c1.css.map",
-    "main.2ec4e375.js.map": "/bachesBogota/proyectoSistema/static/js/main.2ec4e375.js.map"
+    "main.css": "/proyectoSistema/static/css/main.d7da34c1.css",
+    "main.js": "/proyectoSistema/static/js/main.5fdf406c.js",
+    "static/media/video2.mp4": "/proyectoSistema/static/media/video2.68ec94723001160ed3bf.mp4",
+    "static/media/svg-2.svg": "/proyectoSistema/static/media/svg-2.0f25146fc4365053800fe3fbc6a61046.svg",
+    "static/media/svg-3.svg": "/proyectoSistema/static/media/svg-3.2531a5ce6b52a5135bf9f2f2fe035b02.svg",
+    "static/media/svg-5.svg": "/proyectoSistema/static/media/svg-5.add51bb78ec6ebc7b82bb1b64c1cf191.svg",
+    "static/media/svg-4.svg": "/proyectoSistema/static/media/svg-4.454217e0403f9c782ebdd10f9409cb4a.svg",
+    "static/media/svg-1.svg": "/proyectoSistema/static/media/svg-1.1ccf19fb99a9b1ea3517fd854bbbd6c6.svg",
+    "index.html": "/proyectoSistema/index.html",
+    "main.d7da34c1.css.map": "/proyectoSistema/static/css/main.d7da34c1.css.map",
+    "main.5fdf406c.js.map": "/proyectoSistema/static/js/main.5fdf406c.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.2ec4e375.js"
+    "static/js/main.5fdf406c.js"
   ]
 }
