@@ -95,6 +95,8 @@ const InfoSection = ({
         "Content-Type": "application/json",
         token:
           "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjbGllbnRfaWQiOiJEZXYiLCJjbGllbnRfc2VjcmV0IjoiRGV2UGFzcyJ9.z6N3qREztea2sj35gMMY0LPJBlH8t_k4RbfSDfs-wLo",
+          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Headers': 'Origin, X-Requested-With, Content-Type, Accept'
       },
     })
       .catch((error) => {
@@ -111,6 +113,8 @@ const InfoSection = ({
         "Content-Type": "application/json",
         token:
           "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjbGllbnRfaWQiOiJEZXYiLCJjbGllbnRfc2VjcmV0IjoiRGV2UGFzcyJ9.z6N3qREztea2sj35gMMY0LPJBlH8t_k4RbfSDfs-wLo",
+          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Headers': 'Origin, X-Requested-With, Content-Type, Accept'
       },
     })
       .then((response) => response.json())

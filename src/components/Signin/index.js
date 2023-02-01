@@ -78,7 +78,9 @@ export function PostData(username, password) {
       headers: {
         'Content-Type': 'application/json',
         'token': "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjbGllbnRfaWQiOiJEZXYiLCJjbGllbnRfc2VjcmV0IjoiRGV2UGFzcyJ9.z6N3qREztea2sj35gMMY0LPJBlH8t_k4RbfSDfs-wLo",
-        'contrasena': password 
+        'contrasena': password ,
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Headers': 'Origin, X-Requested-With, Content-Type, Accept'
       },
     })
       .then((response) => response.json())
